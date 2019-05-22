@@ -1,3 +1,3 @@
 def toto():
     ulrich=4
-    print("hello word")
+    print("hello this is a test")
